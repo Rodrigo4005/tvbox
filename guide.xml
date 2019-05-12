@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190512000000 -0300" stop="20190512020000 -0300" channel="Telecine Premium">
+    <title lang="pt">Vingança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512020000 -0300" stop="20190512041000 -0300" channel="Telecine Premium">
+    <title lang="pt">Você Desapareceu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512041000 -0300" stop="20190512055000 -0300" channel="Telecine Premium">
+    <title lang="pt">Exorcismos e Demônios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512055000 -0300" stop="20190512073500 -0300" channel="Telecine Premium">
+    <title lang="pt">O Melhor Presente é o Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512073500 -0300" stop="20190512092500 -0300" channel="Telecine Premium">
+    <title lang="pt">Honey 4</title>
+    <sub-title lang="pt">No Pulsar do Ritmo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512092500 -0300" stop="20190512113500 -0300" channel="Telecine Premium">
+    <title lang="pt">Mulheres do Século 20</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512113500 -0300" stop="20190512132500 -0300" channel="Telecine Premium">
+    <title lang="pt">Os Smurfs e a Vila Perdida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512132500 -0300" stop="20190512150500 -0300" channel="Telecine Premium">
+    <title lang="pt">Mulheres Alteradas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512150500 -0300" stop="20190512172000 -0300" channel="Telecine Premium">
+    <title lang="pt">Jurassic World: Reino Ameaçado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512172000 -0300" stop="20190512194000 -0300" channel="Telecine Premium">
+    <title lang="pt">Han Solo: Uma História Star Wars</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512194000 -0300" stop="20190512195000 -0300" channel="Telecine Premium">
+    <title lang="pt">Bao</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512195000 -0300" stop="20190512220000 -0300" channel="Telecine Premium">
+    <title lang="pt">Os Incríveis 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512220000 -0300" stop="20190513000500 -0300" channel="Telecine Premium">
+    <title lang="pt">Mamma Mia! Lá Vamos Nós de Novo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
